@@ -1,1 +1,1 @@
-Prior Informed Rapm for the 2023-24 NCAA Division 1 Mena's Basketball season. Prior was created from a linear regression on a five year NCAA Rapm calculation. Results include statistics such as points, assists, etc. displayed per 60 possessions.
+Prior Informed RAPM for the 2023-24 NCAA Division 1 Mens's Basketball season. Prior was created from a linear regression on a five year NCAA Rapm calculation. Results include statistics such as points, assists, etc. displayed per 60 possessions.
